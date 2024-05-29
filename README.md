@@ -2,9 +2,9 @@
 
 ##Conteúdos a serem trabalhados nesse módulo:
 
-Habilidades interpessoais
-LinkedIn
-Ética em tecnologia
+-Habilidades interpessoais
+-LinkedIn
+-Ética em tecnologia
 Gestão de tempo
 Git básico
 Introdução ao TypeScript
