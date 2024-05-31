@@ -2,18 +2,17 @@
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
 - Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
-- Métodos de arrays
+- Carta de Apresentação e Currículo
+- LinkedIn
+- Funções
+- Tipos de Dados II
+- Métodos de Strings
+- Métodos de arrays I, II e III
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
+- Gestão de tempo é uma parte importante do nosso dia, pois é muito mais difícil, executar trablos com exelencia sem um bom gestionamento de tempo.
 - LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
 - Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
 - Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
