@@ -1,7 +1,5 @@
 # Evoluindo o Aprendizado
 
-# EXEMPLO - Conteúdo modelo no GitHub
-
 ## Conteúdos a serem trabalhados nesse módulo:
 
 - Soft skills
