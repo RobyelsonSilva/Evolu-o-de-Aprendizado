@@ -13,9 +13,7 @@
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - Gestão de tempo é uma parte importante do nosso dia, pois é muito mais difícil, executar trablos com exelencia sem um bom gestionamento de tempo.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
+- 
 - Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
 - TypeScript é uma linguagem de programação relacionada ao JavaScript.
 - Métodos de strings são maneiras de manipular texto em programação.
